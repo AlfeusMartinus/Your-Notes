@@ -10,7 +10,7 @@ function Footer() {
           className="link"
           target="_blank"
           rel="noopener noreferrer"
-          href="https://github.com/AlfeusMartinus"
+          href="https://github.com/AlfeusMartinus/Your-Notes"
         >
           Alfeus Martinus
         </a>{" "} 
